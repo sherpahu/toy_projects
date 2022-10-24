@@ -1,13 +1,17 @@
 # 概述
 使用Self-Attention进行特征交叉
 并且对连续特征也映射为Embedding向量（这个很奇怪）
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/705461/1666624110761-e0ca052f-5010-4097-9aa8-8d28e2d896fe.png#clientId=ucb5c0336-3f72-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=483&id=u22c679a0&margin=%5Bobject%20Object%5D&name=image.png&originHeight=725&originWidth=981&originalType=binary&ratio=1&rotation=0&showTitle=false&size=107752&status=done&style=none&taskId=u81fbd084-b56e-4b8a-a5ca-5719b9eadd5&title=&width=654)
+![image.png](https://cdn.nlark.com/yuque/0/2022/png/705461/1666624110761-e0ca052f-5010-4097-9aa8-8d28e2d896fe.png#clientId=ucb5c0336-3f72-4&crop=0&crop=0&crop=1&crop=1&errorMessage=unknown%20error&from=paste&height=483&id=u22c679a0&margin=%5Bobject%20Object%5D&name=image.png&originHeight=725&originWidth=981&originalType=binary&ratio=1&rotation=0&showTitle=false&size=107752&status=error&style=none&taskId=u81fbd084-b56e-4b8a-a5ca-5719b9eadd5&title=&width=654)
 # 背景
 Transformer的self-attention在特征交叉上可能有用
 # 方法
 先将连续特征和类别特征表示为embedding向量，拼接起来
 然后提出了Interacting Layer使用Multi-head Self-Attention进行特征的交叉
 最后用于预估CTR
+
+Self-Attention的细节
+![](https://cdn.nlark.com/yuque/0/2022/png/705461/1666626827154-a2979303-f9b6-4dfa-8147-ec631867d184.png#clientId=u608e20b0-ec02-4&crop=0&crop=0&crop=1&crop=1&from=paste&id=ua7b4f65d&margin=%5Bobject%20Object%5D&originHeight=478&originWidth=1187&originalType=url&ratio=1&rotation=0&showTitle=false&status=done&style=none&taskId=u306dd5b1-3b18-4584-a9c1-3bca9578cba&title=)
+
 ```python
 def interacting_layer(x,head_num):
     dim = x.shape[-1]
