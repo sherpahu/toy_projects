@@ -1,5 +1,5 @@
 单头的Self-Attention
-![](https://cdn.nlark.com/yuque/0/2022/png/705461/1666626943760-0a95f571-37ca-4088-8d10-61fc03392dab.png#clientId=uc1be2018-dd84-4&crop=0&crop=0&crop=1&crop=1&from=paste&id=ucbd560ed&margin=%5Bobject%20Object%5D&originHeight=478&originWidth=1187&originalType=url&ratio=1&rotation=0&showTitle=false&status=done&style=none&taskId=u287dd5ca-f47b-449d-93e0-9fc6b73d819&title=)
+![](https://cdn.nlark.com/yuque/0/2022/png/705461/1666626943760-0a95f571-37ca-4088-8d10-61fc03392dab.png#clientId=uc1be2018-dd84-4&crop=0&crop=0&crop=1&crop=1&errorMessage=unknown%20error&from=paste&id=ucbd560ed&margin=%5Bobject%20Object%5D&originHeight=478&originWidth=1187&originalType=url&ratio=1&rotation=0&showTitle=false&status=error&style=none&taskId=u287dd5ca-f47b-449d-93e0-9fc6b73d819&title=)
 ```python
 import torch
 from einops import rearrange
@@ -43,3 +43,5 @@ tensor([[[-0.8917,  1.3964, -0.5047],
          [-0.8916,  1.3964, -0.5048],
          [-0.8906,  1.3966, -0.5060]]], grad_fn=<NativeLayerNormBackward0>)
 ```
+
+多头注意力机制
