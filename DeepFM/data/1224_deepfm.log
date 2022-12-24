@@ -1,0 +1,50 @@
+23:49:12 : Epoch: 1
+23:49:20 : Epoch 0001 | Step 0050 / 196 | Loss 20.0687 | Time 7.4413
+23:49:22 : Epoch 0001 | Step 0100 / 196 | Loss 17.0355 | Time 10.0178
+23:49:25 : Epoch 0001 | Step 0150 / 196 | Loss 14.7216 | Time 12.3736
+23:49:27 : Epoch 0001 | Step 0196 / 196 | Loss 12.6788 | Time 14.3309
+23:49:28 : Current AUC: 0.668199, Best AUC: 0.668199
+
+23:49:28 : Epoch: 2
+23:49:30 : Epoch 0002 | Step 0050 / 196 | Loss 3.0824 | Time 2.1991
+23:49:32 : Epoch 0002 | Step 0100 / 196 | Loss 2.4526 | Time 4.2070
+23:49:34 : Epoch 0002 | Step 0150 / 196 | Loss 2.0562 | Time 6.2776
+23:49:36 : Epoch 0002 | Step 0196 / 196 | Loss 1.8110 | Time 8.1431
+23:49:38 : Current AUC: 0.675466, Best AUC: 0.675466
+
+23:49:38 : Epoch: 3
+23:49:40 : Epoch 0003 | Step 0050 / 196 | Loss 0.8072 | Time 2.3218
+23:49:42 : Epoch 0003 | Step 0100 / 196 | Loss 0.7716 | Time 4.3369
+23:49:44 : Epoch 0003 | Step 0150 / 196 | Loss 0.7426 | Time 6.5938
+23:49:46 : Epoch 0003 | Step 0196 / 196 | Loss 0.7185 | Time 8.6957
+23:49:48 : Current AUC: 0.702935, Best AUC: 0.702935
+
+23:49:48 : Epoch: 4
+23:49:50 : Epoch 0004 | Step 0050 / 196 | Loss 0.5870 | Time 2.3064
+23:49:52 : Epoch 0004 | Step 0100 / 196 | Loss 0.5759 | Time 4.3373
+23:49:54 : Epoch 0004 | Step 0150 / 196 | Loss 0.5675 | Time 6.5791
+23:49:56 : Epoch 0004 | Step 0196 / 196 | Loss 0.5626 | Time 8.4781
+23:49:57 : Current AUC: 0.727698, Best AUC: 0.727698
+
+23:49:57 : Epoch: 5
+23:50:00 : Epoch 0005 | Step 0050 / 196 | Loss 0.5237 | Time 2.2724
+23:50:02 : Epoch 0005 | Step 0100 / 196 | Loss 0.5190 | Time 4.4148
+23:50:04 : Epoch 0005 | Step 0150 / 196 | Loss 0.5168 | Time 6.5619
+23:50:06 : Epoch 0005 | Step 0196 / 196 | Loss 0.5155 | Time 8.5378
+23:50:07 : Current AUC: 0.749647, Best AUC: 0.749647
+
+23:50:07 : Epoch: 6
+23:50:10 : Epoch 0006 | Step 0050 / 196 | Loss 0.4945 | Time 2.3778
+23:50:12 : Epoch 0006 | Step 0100 / 196 | Loss 0.4951 | Time 4.6704
+23:50:14 : Epoch 0006 | Step 0150 / 196 | Loss 0.4938 | Time 6.9130
+23:50:16 : Epoch 0006 | Step 0196 / 196 | Loss 0.4946 | Time 8.9311
+23:50:18 : Current AUC: 0.755441, Best AUC: 0.755441
+
+23:50:18 : Epoch: 7
+23:50:20 : Epoch 0007 | Step 0050 / 196 | Loss 0.4808 | Time 2.3595
+23:50:22 : Epoch 0007 | Step 0100 / 196 | Loss 0.4822 | Time 4.3969
+23:50:24 : Epoch 0007 | Step 0150 / 196 | Loss 0.4824 | Time 6.5381
+23:50:26 : Epoch 0007 | Step 0196 / 196 | Loss 0.4840 | Time 8.4164
+23:50:28 : Current AUC: 0.760693, Best AUC: 0.760693
+
+23:50:28 : Epoch: 8
