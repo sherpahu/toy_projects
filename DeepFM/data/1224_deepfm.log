@@ -48,3 +48,163 @@
 23:50:28 : Current AUC: 0.760693, Best AUC: 0.760693
 
 23:50:28 : Epoch: 8
+23:50:30 : Epoch 0008 | Step 0050 / 196 | Loss 0.4772 | Time 2.2253
+23:50:32 : Epoch 0008 | Step 0100 / 196 | Loss 0.4767 | Time 4.2453
+23:50:34 : Epoch 0008 | Step 0150 / 196 | Loss 0.4774 | Time 6.3474
+23:50:36 : Epoch 0008 | Step 0196 / 196 | Loss 0.4771 | Time 8.1995
+23:50:37 : Current AUC: 0.764255, Best AUC: 0.764255
+
+23:50:37 : Epoch: 9
+23:50:39 : Epoch 0009 | Step 0050 / 196 | Loss 0.4687 | Time 2.1956
+23:50:41 : Epoch 0009 | Step 0100 / 196 | Loss 0.4695 | Time 4.2123
+23:50:44 : Epoch 0009 | Step 0150 / 196 | Loss 0.4707 | Time 6.3060
+23:50:45 : Epoch 0009 | Step 0196 / 196 | Loss 0.4714 | Time 8.1790
+23:50:47 : Current AUC: 0.769728, Best AUC: 0.769728
+
+23:50:47 : Epoch: 10
+23:50:49 : Epoch 0010 | Step 0050 / 196 | Loss 0.4643 | Time 2.2147
+23:50:51 : Epoch 0010 | Step 0100 / 196 | Loss 0.4650 | Time 4.2102
+23:50:53 : Epoch 0010 | Step 0150 / 196 | Loss 0.4658 | Time 6.2910
+23:50:55 : Epoch 0010 | Step 0196 / 196 | Loss 0.4664 | Time 8.2388
+23:50:56 : Current AUC: 0.771632, Best AUC: 0.771632
+
+23:50:56 : Epoch: 11
+23:50:59 : Epoch 0011 | Step 0050 / 196 | Loss 0.4590 | Time 2.2447
+23:51:01 : Epoch 0011 | Step 0100 / 196 | Loss 0.4599 | Time 4.2565
+23:51:03 : Epoch 0011 | Step 0150 / 196 | Loss 0.4606 | Time 6.3307
+23:51:05 : Epoch 0011 | Step 0196 / 196 | Loss 0.4618 | Time 8.2263
+23:51:06 : Current AUC: 0.775467, Best AUC: 0.775467
+
+23:51:06 : Epoch: 12
+23:51:09 : Epoch 0012 | Step 0050 / 196 | Loss 0.4540 | Time 2.4095
+23:51:11 : Epoch 0012 | Step 0100 / 196 | Loss 0.4553 | Time 4.5781
+23:51:13 : Epoch 0012 | Step 0150 / 196 | Loss 0.4570 | Time 6.6998
+23:51:15 : Epoch 0012 | Step 0196 / 196 | Loss 0.4572 | Time 8.7536
+23:51:16 : Current AUC: 0.775753, Best AUC: 0.775753
+
+23:51:16 : Epoch: 13
+23:51:19 : Epoch 0013 | Step 0050 / 196 | Loss 0.4453 | Time 2.3629
+23:51:21 : Epoch 0013 | Step 0100 / 196 | Loss 0.4466 | Time 4.5926
+23:51:23 : Epoch 0013 | Step 0150 / 196 | Loss 0.4496 | Time 6.7585
+23:51:25 : Epoch 0013 | Step 0196 / 196 | Loss 0.4522 | Time 8.7495
+23:51:27 : Current AUC: 0.777875, Best AUC: 0.777875
+
+23:51:27 : Epoch: 14
+23:51:29 : Epoch 0014 | Step 0050 / 196 | Loss 0.4405 | Time 2.3796
+23:51:31 : Epoch 0014 | Step 0100 / 196 | Loss 0.4414 | Time 4.4195
+23:51:33 : Epoch 0014 | Step 0150 / 196 | Loss 0.4440 | Time 6.4940
+23:51:35 : Epoch 0014 | Step 0196 / 196 | Loss 0.4455 | Time 8.4841
+23:51:36 : Current AUC: 0.778045, Best AUC: 0.778045
+
+23:51:36 : Epoch: 15
+23:51:39 : Epoch 0015 | Step 0050 / 196 | Loss 0.4325 | Time 2.1808
+23:51:41 : Epoch 0015 | Step 0100 / 196 | Loss 0.4340 | Time 4.1876
+23:51:43 : Epoch 0015 | Step 0150 / 196 | Loss 0.4350 | Time 6.3129
+23:51:45 : Epoch 0015 | Step 0196 / 196 | Loss 0.4368 | Time 8.2543
+23:51:46 : Current AUC: 0.778518, Best AUC: 0.778518
+
+23:51:46 : Epoch: 16
+23:51:48 : Epoch 0016 | Step 0050 / 196 | Loss 0.4166 | Time 2.2495
+23:51:50 : Epoch 0016 | Step 0100 / 196 | Loss 0.4181 | Time 4.2571
+23:51:52 : Epoch 0016 | Step 0150 / 196 | Loss 0.4215 | Time 6.3233
+23:51:54 : Epoch 0016 | Step 0196 / 196 | Loss 0.4241 | Time 8.1853
+23:51:56 : Current AUC: 0.775496, Best AUC: 0.778518
+
+23:51:56 : Epoch: 17
+23:51:58 : Epoch 0017 | Step 0050 / 196 | Loss 0.3938 | Time 2.1593
+23:52:00 : Epoch 0017 | Step 0100 / 196 | Loss 0.3957 | Time 4.1457
+23:52:02 : Epoch 0017 | Step 0150 / 196 | Loss 0.3990 | Time 6.2148
+23:52:04 : Epoch 0017 | Step 0196 / 196 | Loss 0.4011 | Time 8.0771
+23:52:05 : Current AUC: 0.768149, Best AUC: 0.778518
+
+23:52:05 : Epoch: 18
+23:52:07 : Epoch 0018 | Step 0050 / 196 | Loss 0.3605 | Time 2.2173
+23:52:09 : Epoch 0018 | Step 0100 / 196 | Loss 0.3625 | Time 4.3045
+23:52:11 : Epoch 0018 | Step 0150 / 196 | Loss 0.3664 | Time 6.2936
+23:52:13 : Epoch 0018 | Step 0196 / 196 | Loss 0.3696 | Time 8.1462
+23:52:15 : Current AUC: 0.756097, Best AUC: 0.778518
+
+23:52:15 : Epoch: 19
+23:52:17 : Epoch 0019 | Step 0050 / 196 | Loss 0.3385 | Time 2.1601
+23:52:19 : Epoch 0019 | Step 0100 / 196 | Loss 0.3380 | Time 4.2611
+23:52:21 : Epoch 0019 | Step 0150 / 196 | Loss 0.3406 | Time 6.2613
+23:52:23 : Epoch 0019 | Step 0196 / 196 | Loss 0.3422 | Time 8.1317
+23:52:24 : Current AUC: 0.753327, Best AUC: 0.778518
+
+23:52:24 : Epoch: 20
+23:52:26 : Epoch 0020 | Step 0050 / 196 | Loss 0.3185 | Time 2.1332
+23:52:28 : Epoch 0020 | Step 0100 / 196 | Loss 0.3202 | Time 4.2230
+23:52:30 : Epoch 0020 | Step 0150 / 196 | Loss 0.3209 | Time 6.2249
+23:52:32 : Epoch 0020 | Step 0196 / 196 | Loss 0.3229 | Time 8.0755
+23:52:34 : Current AUC: 0.747955, Best AUC: 0.778518
+
+23:52:34 : Epoch: 21
+23:52:36 : Epoch 0021 | Step 0050 / 196 | Loss 0.2994 | Time 2.0838
+23:52:38 : Epoch 0021 | Step 0100 / 196 | Loss 0.3056 | Time 4.1595
+23:52:40 : Epoch 0021 | Step 0150 / 196 | Loss 0.3071 | Time 6.1607
+23:52:42 : Epoch 0021 | Step 0196 / 196 | Loss 0.3094 | Time 8.0160
+23:52:43 : Current AUC: 0.744076, Best AUC: 0.778518
+
+23:52:43 : Epoch: 22
+23:52:45 : Epoch 0022 | Step 0050 / 196 | Loss 0.2919 | Time 2.1084
+23:52:47 : Epoch 0022 | Step 0100 / 196 | Loss 0.2962 | Time 4.2187
+23:52:49 : Epoch 0022 | Step 0150 / 196 | Loss 0.2970 | Time 6.3461
+23:52:51 : Epoch 0022 | Step 0196 / 196 | Loss 0.2985 | Time 8.2247
+23:52:53 : Current AUC: 0.742628, Best AUC: 0.778518
+
+23:52:53 : Epoch: 23
+23:52:55 : Epoch 0023 | Step 0050 / 196 | Loss 0.2871 | Time 2.2395
+23:52:57 : Epoch 0023 | Step 0100 / 196 | Loss 0.2882 | Time 4.2317
+23:52:59 : Epoch 0023 | Step 0150 / 196 | Loss 0.2895 | Time 6.3205
+23:53:01 : Epoch 0023 | Step 0196 / 196 | Loss 0.2909 | Time 8.1827
+23:53:02 : Current AUC: 0.742656, Best AUC: 0.778518
+
+23:53:02 : Epoch: 24
+23:53:04 : Epoch 0024 | Step 0050 / 196 | Loss 0.2789 | Time 2.2567
+23:53:06 : Epoch 0024 | Step 0100 / 196 | Loss 0.2823 | Time 4.2719
+23:53:08 : Epoch 0024 | Step 0150 / 196 | Loss 0.2834 | Time 6.3462
+23:53:10 : Epoch 0024 | Step 0196 / 196 | Loss 0.2854 | Time 8.2110
+23:53:12 : Current AUC: 0.737945, Best AUC: 0.778518
+
+23:53:12 : Epoch: 25
+23:53:14 : Epoch 0025 | Step 0050 / 196 | Loss 0.2785 | Time 2.2174
+23:53:16 : Epoch 0025 | Step 0100 / 196 | Loss 0.2798 | Time 4.3033
+23:53:18 : Epoch 0025 | Step 0150 / 196 | Loss 0.2804 | Time 6.2927
+23:53:20 : Epoch 0025 | Step 0196 / 196 | Loss 0.2805 | Time 8.1651
+23:53:21 : Current AUC: 0.734628, Best AUC: 0.778518
+
+23:53:21 : Epoch: 26
+23:53:23 : Epoch 0026 | Step 0050 / 196 | Loss 0.2766 | Time 2.1635
+23:53:25 : Epoch 0026 | Step 0100 / 196 | Loss 0.2741 | Time 4.2763
+23:53:27 : Epoch 0026 | Step 0150 / 196 | Loss 0.2758 | Time 6.2765
+23:53:29 : Epoch 0026 | Step 0196 / 196 | Loss 0.2770 | Time 8.2430
+23:53:31 : Current AUC: 0.734942, Best AUC: 0.778518
+
+23:53:31 : Epoch: 27
+23:53:33 : Epoch 0027 | Step 0050 / 196 | Loss 0.2716 | Time 2.1398
+23:53:35 : Epoch 0027 | Step 0100 / 196 | Loss 0.2739 | Time 4.2305
+23:53:37 : Epoch 0027 | Step 0150 / 196 | Loss 0.2744 | Time 6.3077
+23:53:39 : Epoch 0027 | Step 0196 / 196 | Loss 0.2746 | Time 8.1860
+23:53:40 : Current AUC: 0.735320, Best AUC: 0.778518
+
+23:53:40 : Epoch: 28
+23:53:43 : Epoch 0028 | Step 0050 / 196 | Loss 0.2697 | Time 2.2313
+23:53:45 : Epoch 0028 | Step 0100 / 196 | Loss 0.2725 | Time 4.2648
+23:53:47 : Epoch 0028 | Step 0150 / 196 | Loss 0.2731 | Time 6.3415
+23:53:49 : Epoch 0028 | Step 0196 / 196 | Loss 0.2726 | Time 8.2158
+23:53:50 : Current AUC: 0.734156, Best AUC: 0.778518
+
+23:53:50 : Epoch: 29
+23:53:52 : Epoch 0029 | Step 0050 / 196 | Loss 0.2729 | Time 2.3006
+23:53:54 : Epoch 0029 | Step 0100 / 196 | Loss 0.2702 | Time 4.5218
+23:53:56 : Epoch 0029 | Step 0150 / 196 | Loss 0.2705 | Time 6.5178
+23:53:58 : Epoch 0029 | Step 0196 / 196 | Loss 0.2710 | Time 8.3926
+23:54:00 : Current AUC: 0.733780, Best AUC: 0.778518
+
+23:54:00 : Epoch: 30
+23:54:02 : Epoch 0030 | Step 0050 / 196 | Loss 0.2741 | Time 2.0563
+23:54:04 : Epoch 0030 | Step 0100 / 196 | Loss 0.2727 | Time 4.1416
+23:54:06 : Epoch 0030 | Step 0150 / 196 | Loss 0.2707 | Time 6.1361
+23:54:08 : Epoch 0030 | Step 0196 / 196 | Loss 0.2694 | Time 8.0230
+23:54:09 : Current AUC: 0.734076, Best AUC: 0.778518
+
